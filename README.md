@@ -16,5 +16,3 @@ Sistema de historia clínica electrónica desarrollado con arquitectura de micro
 - **HTTP Client**: Axios con interceptores
 - **Build Tool**: Vite
 - **Control de Calidad**: ESLint, Prettier
-
-## Estructura del Proyecto
